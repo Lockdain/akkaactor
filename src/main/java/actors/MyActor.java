@@ -1,3 +1,5 @@
+package actors;
+
 import akka.actor.AbstractActor;
 
 public class MyActor extends AbstractActor {
